@@ -1,0 +1,32 @@
+Hands-on Project 1
+In this project, you work for a large corporation’s IT security company. Your duties include conducting internal computing investigations 
+and forensics examinations on company computing systems. A paralegal from the Law Department Ms. Jones, asks you to examine a USB drive 
+belonging to an employee who left the company and now works for a competitor. The Law Department is concerned that the former employee 
+might possess sensitive company data. Ms. Jones wants to know whether the USB drives contains anything significant.
+In addition, she informs you that the former employee might have had access to confidential documents because a co-worker saw him 
+accessing his manager’s computer on their last day of work. These confidential documents consists of 24 files with the text “book.” She 
+wants you to locate any occurrences of these files on the USB drive’s bit stream image.
+
+First of all, create a work folder to save project related files. To process this case, make sure you have extracted C1Prj02.eve file to 
+your work folder, and then follow these steps:
+
+1. Start ProDiscover Basic. In the New Project tab, enter a project number, the project name C1Prj02, and a project description, and then 
+click Open. It’s a good idea to get in the habit of saving the project immediately, so click File, Save Project from the menu, and save 
+the file in your work folder.
+2. Click Action from the menu, point to Add, and click Image File. Navigate to and click C1Prj02.eve in your work folder, and then click 
+Open. If the Auto Image Checksum message opens, click Yes.
+3. In the tree view, click to expand Content View, if necessary. Click to expand Images, and then click the pathname containing the image
+file. In the work area, examine the files that are listed.
+4. To search for the keyword “book,” click the Search toolbar button to open the Search dialog box
+5. If necessary, click the Contact Search tab, and then click the ASCII option button and the Search for the pattern(s) options button.
+Type book in the list box for search keywords. Under Select and Disk(s)/Images(s) you want to search in, click the drive you’re searching
+in, and then click OK.
+6. In the tree view, click to expand Search Results, if necessary, and then click Content Search Results to specify the type of search.
+7. Next, open the Search dialogue box again, click the Cluster Search  tab, and run the same search. Note that it takes longer because
+each cluster on the drive is searched.
+8. In the tree view, click Cluster Search Results, and view the search results pane. Remember to save your project and exit ProDiscover 
+Basic.
+
+Resources required:
+ProDiscover Basic
+C1Prj02.eve
