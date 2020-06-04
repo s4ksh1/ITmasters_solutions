@@ -1,0 +1,13 @@
+Hands-on Project 3
+
+Resources provided:
+Project3.bmp
+
+Graphics files might not seem to contain information related to your investigation.  However, information can be hidden inside an image 
+by using a data-hiding technique called steganography which uses a host file to cover the contents of a secret message.
+
+In this project, you will use S-Tools4 to reveal hidden text from an image.  
+Download S-Tools4 from http://packetstormsecurity.com/files/21688/s-tools4.zip.html.
+
+You are provided an image file Project3.bmp. This image file contains hidden text. You are required to reveal the hidden text.
+If you are asked for a Passphrase, type: DigitalForensicsShortCourse2015
