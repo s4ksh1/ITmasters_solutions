@@ -1,0 +1,33 @@
+Hands-on Project 2
+Ms. Jones notifies you that the former employee has used an additional drive. She asks you to examine this new drive to determine whether 
+it contains an account number the employee might have had accessed to. The account number 461562, belongs to the senior vice president and 
+is used to access the company’s banking service over the Internet.
+
+1. Start ProDiscover Basic. In the New Project tab, enter a project number, the project name C1Prj03, and a brief description, and then
+click Open. Save the project in your work folder by clicking File, Save Project from the menu.
+
+2. To add the evidence, click Action from the menu, point to Add, and click Image File. Navigate to your work folder, click the C1Prj03.dd
+file, and then click Open. Click Yes in the Auto Image Checksum message box, if necessary. Notice that the image file is a .dd file, not an
+.eve file. Like most forensic tools, ProDiscover can read standard UNIX .dd image files.
+
+3. To aid in your investigation, you might want to view graphics files on the drive. To do this, click to expand Content View in the tree
+view, click to expand Images, and then click the pathname containing the image file.
+
+4. Click View, Gallery View from the menu. Scroll through the graphics files of the drive image. You’ll need to search through all folders,
+which can take some time. If a file is of interest, click and check box next to it in the Select Column. In the Add Comment dialogue box 
+that opens, enter description and click OK. These notes are added to the ProDiscover report.
+
+5. This drive is related to the case in Hands-On Project 1, so you’re still looking for occurrences of the word ‘”book”. Open the Search
+dialogue box, and repeat Steps 5 though to 8 of Hands-On Project 1 for this drive image. When you view the search research, click to 
+select any files of interest (as described in Step 4), which opens the Add Comment dialog box where you can enter notes. 
+
+6. Next, search for the account number Ms. Jones gave you. Click the Search toolbar button. Click the Content Search tab, if necessary, 
+and type 461562 as the search keyword. Click to select the drive you’re searching, and then click OK. Click the cluster Search tab, and
+repeat the search for the account number. Remember to select any files of interest and enter notes in the Add Comment dialog box.
+
+7. When you’re finished, click Report in the tree view. Scroll through the report to make sure all the items you found are listed.
+
+8. Next, click the Export toolbar button. In the Export dialog, click the RTF Format option button, type Ch1Prj03Report in the File Name
+text box, and then click OK. (If you want to store the report in a different folder, click Browse and navigate to the new location.)
+
+9. Save the project and exit ProDiscover Basic.
