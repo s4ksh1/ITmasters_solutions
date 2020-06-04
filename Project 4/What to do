@@ -1,0 +1,16 @@
+Resources provided:
+Project4.txt  
+
+This is a bit shifting exercise. Data can be hidden by using low-level encryption programs that changes the order of binary data, 
+making the scrambled data unreadable when accessed with a text editor or word processer. These programs rearrange bits for each byte 
+in file.
+Shifting bit patterns is a well-known technique to alter the byte values of data.  Bit-shifting changes data from readable code to data
+that looks like binary. Hex editors such as WinHex or Hex Workshop include a feature for shifting bits and altering byte pattern of 
+entire files.  This makes it difficult for digital forensics investigators to analyse data on a suspect drive.  This project will provide
+you an understanding of how bit-shifting works.
+
+In this project you will use Hex Workshop to unscramble bits.
+(Downloadable Hex Workshop from http://www.hexworkshop.com/ )
+
+You are provided with a text file Project4.txt which contains scrambled bits.  You are required to restore the scrambled bits to their
+original order.
