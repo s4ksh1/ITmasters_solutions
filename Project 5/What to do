@@ -1,0 +1,14 @@
+Go to the following link and read the 2009-M57-Patent scenario.
+Link: https://digitalcorpora.org/corpora/scenarios/m57-patents-scenario
+
+Jo Smith, one of the M57-Patent researcher, likes to trade illicit photos, illustrated in the M57 case as cats and kittens.
+
+Download the following USB Image files that are captured from Jo's computer:
+jo-favorites-usb-2009-12-11.E01
+jo-work-usb-2009-12-11.E01
+
+These files can be downloaded from: http://downloads.digitalcorpora.org/corpora/scenarios/2009-m57-patents/usb/
+
+Task: 
+Use any forensics tool(eg., ProDiscover Basic, FTK Imager, OS Forensics) to examine the above two images to search for the evidence
+to show that Jo was dealing in illicit photos or corporate espionage. 
